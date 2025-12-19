@@ -2,8 +2,6 @@
 
 ### A passionate frontend developer and do backend too.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aymen-khlil" alt="Aymen-khlil" /></a> </p>
-
 - 🌱 I'm currently learning **I'm currently leaning and explotion animation in general like motion and GSAP, ThreeJS is also on my radar....**
 
 - 📫 How to reach me **aymen-khlil@outlook.com**
