@@ -8,9 +8,9 @@
 <p> ✉️  You can contact me at : <a href="mailto:aymen-khlil@outlook.com">aymen-khlil@outlook.com </a></p>
 
 ## Connect with me
-
-<a href="mailto:aymen-khlil@outlook.com" target="blank"><img src="https://static.vecteezy.com/system/resources/thumbnails/022/484/508/small/google-mail-gmail-icon-logo-symbol-free-png.png" width="30" height=""  /> </a>
+<a href="mailto:aymen-khlil@outlook.com" target="blank"><img src="https://static.vecteezy.com/system/resources/thumbnails/022/484/508/small/google-mail-gmail-icon-logo-symbol-free-png.png" width="30" height=""  />  </a>
 <a href="https://linkedin.com/in/mohamed-aymen-khlil-467840179" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-aymen-khlil-467840179" width="30" height="30"  /></a>
+
 
 ## SKILLS
 
@@ -78,15 +78,9 @@
 
 </table>
 
-## Additional information
 
+## Additional information
 <p align="left">
-<a href="https://drive.google.com/file/d/1thyyzfBJOJzEV47QWUoQsfjKNtxBbVZg/view?usp=sharing" alt="Download Resume" title="Dowloand Resume">
-<svg xmlns="http://www.w3.org/2000/svg" width="140" height="35" viewBox="0 0 140 35">
-  <rect x="0" y="0" width="140" height="35" rx="4" fill="#268fe6ff" />
-  <text x="70" y="22" text-anchor="middle" fill="#FFFFFF" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="600">
-    Download Resume
-  </text>
-</svg>
-</a> 
-<a href="https://behance.net/Aymen_khlil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Aymen_khlil" title="Visit my behance profile" height="36"  /></a>
+<a href="https://behance.net/Aymen_khlil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Aymen_khlil" height="30"  /></a>
+<a href="https://drive.google.com/file/d/1thyyzfBJOJzEV47QWUoQsfjKNtxBbVZg/view?usp=sharing" alt="Download Resume" title="Dowloand Resume"><img align="right" src="./downloadResume.svg" alt="Aymen_khlil" height="30"  /></a>
+</p>
