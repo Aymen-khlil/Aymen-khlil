@@ -40,7 +40,7 @@
 <a href="https://zustand.docs.pmnd.rs/getting-started/introduction" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9V4MZLV0w0czSjom6Zn43ZuSKMjB4b9PZ6Q&s" alt="Zustand" title="Zustand" width="36"  />
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-<a href="https://www.radix-ui.com/" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/46/2/radix-ui-logo-png_seeklogo-466038.png" alt="RadixUI" title="Radix UI" width="36"  />
+<a href="https://www.radix-ui.com/" target="_blank" rel="noreferrer"> <img src="radixUI.png" alt="RadixUI" title="Radix UI" width="36"  />
 </a>
 <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" alt="Chakra UI" title="Chakra UI" width="36" height="36" /></a>
  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
@@ -50,7 +50,7 @@
 <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" />
   </a> 
-  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://images.seeklogo.com/logo-png/51/2/shadcn-ui-logo-png_seeklogo-519786.png" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a>
+  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="./shadCN.png" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a>
 <a href="https://d3js.org/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="36" /> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a>
 </p>
