@@ -8,8 +8,12 @@
 <p> ✉️  You can contact me at : <a href="mailto:aymen-khlil@outlook.com">aymen-khlil@outlook.com </a></p>
 
 ## Connect with me
-<a href="mailto:aymen-khlil@outlook.com" target="blank"><img src="https://static.vecteezy.com/system/resources/thumbnails/022/484/508/small/google-mail-gmail-icon-logo-symbol-free-png.png" width="30" height=""  />  </a>
-<a href="https://linkedin.com/in/mohamed-aymen-khlil-467840179" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-aymen-khlil-467840179" width="30" height="30"  /></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:aymen-khlil@outlook.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/mohamed-aymen-khlil-467840179)
+
+
+
+
 
 
 ## SKILLS
