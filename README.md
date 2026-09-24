@@ -46,6 +46,17 @@
 <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" alt="Visual Studio Code" title="Visual Studio Code" width="36" height="36" />
 </a>
 
+<a href="https://cursor.com/" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cursor/white" />
+<img src="https://cdn.simpleicons.org/cursor/000000" alt="Cursor" title="Cursor" width="36" height="36" />
+</picture>
+</a>
+
+<a href="https://antigravity.google/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/s2/favicons?domain=antigravity.google&sz=64" alt="Antigravity" title="Google Antigravity" width="36" height="36" />
+</a>
+
 </p>
 
 <h3 align="center">Other</h3>
@@ -93,7 +104,10 @@
 </a>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="Next.js" title="Next.js" width="36" height="36" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white" />
+<img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" width="36" height="36" />
+</picture>
 </a>
 
 <a href="https://zustand.docs.pmnd.rs/" target="_blank" rel="noreferrer">
@@ -105,7 +119,10 @@
 </a>
 
 <a href="https://www.radix-ui.com/" target="_blank" rel="noreferrer">
-<img src="radixUI.png" alt="Radix UI" title="Radix UI" width="36" height="36" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/radixui/white" />
+<img src="https://cdn.simpleicons.org/radixui/000000" alt="Radix UI" title="Radix UI" width="36" height="36" />
+</picture>
 </a>
 
 <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
@@ -125,11 +142,14 @@
 </a>
 
 <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
-<img src="./shadCN.png" alt="shadcn/ui" title="shadcn/ui" width="36" height="36" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/white" />
+<img src="https://cdn.simpleicons.org/shadcnui/000000" alt="shadcn/ui" title="shadcn/ui" width="36" height="36" />
+</picture>
 </a>
 
 <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" title="D3.js" width="36" height="36" />
+<img src="https://cdn.simpleicons.org/d3/F9A03C" alt="D3.js" title="D3.js" width="36" height="36" />
 </a>
 
 <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
@@ -154,7 +174,10 @@
 </a>
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-<img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="Express.js" title="Express.js" width="36" height="36" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/white" />
+<img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" title="Express.js" width="36" height="36" />
+</picture>
 </a>
 
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
@@ -162,11 +185,17 @@
 </a>
 
 <a href="https://socket.io/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/330px-Socket-io.svg.png" alt="Socket.IO" title="Socket.IO" width="36" height="36" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/socketdotio/white" />
+<img src="https://cdn.simpleicons.org/socketdotio/010101" alt="Socket.IO" title="Socket.IO" width="36" height="36" />
+</picture>
 </a>
 
 <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/jsonwebtokens/white" />
 <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="JSON Web Tokens" title="JWT" width="36" height="36" />
+</picture>
 </a>
 
 <a href="https://zod.dev/" target="_blank" rel="noreferrer">
@@ -179,7 +208,7 @@
 <p align="center">
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="36" height="36" />
+<img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" width="36" height="36" />
 </a>
 
 <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
@@ -215,7 +244,10 @@
 </a>
 
 <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/modelcontextprotocol/white" />
 <img src="https://cdn.simpleicons.org/modelcontextprotocol/000000" alt="Model Context Protocol" title="MCP" width="36" height="36" />
+</picture>
 </a>
 
 </p>
@@ -244,7 +276,10 @@
 </a>
 
 <a href="https://developer.wordpress.org/rest-api/" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/wordpress/white" />
 <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" title="WordPress REST API" width="36" height="36" />
+</picture>
 </a>
 
 </p>
